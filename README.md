@@ -1,4 +1,7 @@
-🍕 Pizza Sales Analysis using SQL 🔍  URL: https://shorturl.at/DusFy
+🍕 Pizza Sales Analysis using SQL 🔍  
+🌐 WebPage: https://shorturl.at/DusFy
+
+
 🔸 A deep-dish dive into pizza sales data to uncover tasty business insights using powerful SQL queries!
 From basic stats to advanced analytics, here's what this project served hot:
 
