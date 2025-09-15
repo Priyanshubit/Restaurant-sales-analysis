@@ -23,6 +23,8 @@ From basic stats to advanced analytics, here's what this project served hot:
 🏆 Top 5 Bestsellers: Listed the top 5 most ordered pizzas with their total quantities
 
 
+
+
 🚀 Intermediate Insights:
 
 
@@ -36,6 +38,9 @@ From basic stats to advanced analytics, here's what this project served hot:
 
 💸 Revenue Winners: Ranked the top 3 pizzas based on total revenue
 
+
+
+
 🧠 Advanced Analytics:
 
 
@@ -44,6 +49,7 @@ From basic stats to advanced analytics, here's what this project served hot:
 📉 Cumulative Revenue: Tracked cumulative revenue growth over time
 
 🥇🥈🥉 Category Champs: Found the top 3 revenue-generating pizzas per category
+
 
 
 🔧 Tech Stack:
